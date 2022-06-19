@@ -15,4 +15,8 @@ This is how this app looks :
 After some seconds, you will see bubbles coming up from bottom : <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/bubble-animated-page/master/demo/2.animated.png" width="90%"></img>
 
+## Reference
+
+- [Easy Tutorials - How To Make Animated Website Design Using HTML And CSS Step By Step Tutorial 2020](https://youtu.be/CZTCciHE72I)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/bubble-animated-page)](https://github.com/kevinadhiguna)
