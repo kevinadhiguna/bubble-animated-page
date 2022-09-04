@@ -26,4 +26,4 @@ After some seconds, you will see bubbles coming up from bottom : <br><br>
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/bubble-animated-page)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=bubble-animated-page&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
